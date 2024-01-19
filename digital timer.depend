@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701540868 source:e:\cs_50\new folder\digital timer\main.cpp
+	<iostream>
+	<windows.h>
+
